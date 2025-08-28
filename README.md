@@ -24,7 +24,6 @@ It lets you upload a **PDF document** and then ask questions — the bot answers
 ### 1. Clone repo
 ```bash
 git clone <your-repo-url>
-cd rag-chatbot
 
 
 
